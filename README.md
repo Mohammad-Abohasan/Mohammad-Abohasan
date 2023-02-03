@@ -82,11 +82,11 @@
             src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="40" /></a>
 </div>
 
-<h3 align="left">Github Stats:</h3>
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-abohasan&show_icons=true&locale=en&layout=compact"
-        alt="mohammad-abohasan" /></p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=mohammad-abohasan&show_icons=true&locale=en"
-        alt="mohammad-abohasan" /></p>
+<h3 align="left">Statistics:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-abohasan&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mohammad-abohasan"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-abohasan&show_icons=true&theme=dracula" alt="mohammad-abohasan"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-abohasan&theme=dracula" alt="mohammad-abohasan"/>
+</div>
