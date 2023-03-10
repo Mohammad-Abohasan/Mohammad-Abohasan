@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Abohasan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammad Abohasan</h1>
 <h3 align="center">a Software Engineer 👨‍💻</h3>
 
 <p align="left"> <img
@@ -67,6 +67,9 @@
             src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>
     <a href="https://www.php.net/" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" /></a>
+    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React"
+            height="40" /></a>
     <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"
             height="40" /></a>
@@ -83,6 +86,8 @@
             height="40" /></a>
     <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="40" /></a>
+    <a target="_blank"><img style="margin: 10px"
+            src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="node package manager" height="40" /></a>
 </div>
 
 <h3 align="left">Statistics:</h3>
