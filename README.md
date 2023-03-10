@@ -8,7 +8,7 @@
 - 🔭 I’m currently studying at **[Palestine Technical University - Kadoorie](https://ptuk.edu.ps)**
 
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **MERN**
 
 
 - 📫 How to reach me **mo7ammad.saed@gmail.com**
