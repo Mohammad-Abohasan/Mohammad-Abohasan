@@ -1,19 +1,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammad Abohasan</h1>
 <h3 align="center">a passionate full-stack developer from Palestine 👨‍💻</h3>
 
+</br>
+
 <div align="center">
-    <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" width="50%" height="auto"/>
+    <img alt="full-stack-developer" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" width="65%" height="auto"/>
 </div>
 
 </br>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=mohammad-abohasan&label=Profile%20views&color=0e75b6&style=flat"
-        alt="mohammad-abohasan" /> </p>
+        alt="mohammad-abohasan" />
+</p>
 
 - 🔭 I’m currently studying **Computer Systems Engineering** at **[Palestine Technical University - Kadoorie](https://ptuk.edu.ps)**.
 
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning **ReactJS**.
 
 - 📫 How to reach me **mo7ammad.saed@gmail.com**.
 
@@ -21,7 +24,9 @@
 
 - ⚡ Fun fact: I complete my task **accurately** and **quickly**.
 
-<h3 align="left">Connect with me:</h3>
+</br>
+
+<h2 align="left">Connect with me:</h2>
 <div align="left">
     <a href="https://linkedin.com/in/mohammad-abohasan" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
@@ -49,7 +54,9 @@
     </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+</br>
+
+<h2 align="left">Languages and tools:</h2>
 <div align="left">
     <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React"
@@ -92,11 +99,21 @@
             src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
 </div>
 
-<h3 align="left">Statistics:</h3>
-<p align="center">
+</br>
+
+
+<h2 align="left">Snake eating my contribution 🐍:</h2>
+<div align="center">
+  <img alt="snake eating my contribution" src="https://github.com/Mohammad-Abohasan/Mohammad-Abohasan/blob/output/github-contribution-grid-snake.gif">
+</div>
+
+</br>
+
+<h2 align="left">Statistics:</h2>
+<div align="center">
   <img width = "420px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-abohasan&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mohammad-abohasan"/>
-</p>
-<p align="center">
+</div>
+<div align="center">
   <img width = "420px" height= "165.453px" src="https://github-readme-stats.vercel.app/api?username=mohammad-abohasan&show_icons=true&theme=dracula" alt="mohammad-abohasan"/>
   <img width = "420px" height= "165.453px"  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-abohasan&theme=dracula" alt="mohammad-abohasan"/>
-</p>
+</div>
