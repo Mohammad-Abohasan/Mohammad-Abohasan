@@ -1,22 +1,23 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammad Abohasan</h1>
-<h3 align="center">a Software Engineer 👨‍💻</h3>
+<h3 align="center">a passionate full-stack developer from Palestine 👨‍💻</h3>
+
+<div align="center">
+    <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" width="50%" height="auto"/>
+</div>
+
+</br>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=mohammad-abohasan&label=Profile%20views&color=0e75b6&style=flat"
         alt="mohammad-abohasan" /> </p>
 
-- 🔭 I’m currently studying at **[Palestine Technical University - Kadoorie](https://ptuk.edu.ps)**
+- 🔭 I’m currently studying **Computer Systems Engineering** at **[Palestine Technical University - Kadoorie](https://ptuk.edu.ps)**.
 
+- 🌱 I’m currently learning ReactJS.
 
-- 🌱 I’m currently learning **MERN**
+- 📫 How to reach me **mo7ammad.saed@gmail.com**.
 
-
-- 📫 How to reach me **mo7ammad.saed@gmail.com**
-
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1T9FdjLrcDPpJEarQQIbtBtqlMda0eCYg/view" target="_blank">Resume</a>**
-
-- ❓ Ask me about anything related to **Computer Systems Engineering**
-
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1f_3ANvXVZjjr9bbKp2F9rRx6O8g9EeRM/view?usp=share_link" target="_blank">Resume</a>**.
 
 - ⚡ Fun fact: I complete my task **accurately** and **quickly**.
 
