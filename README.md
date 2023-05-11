@@ -114,6 +114,9 @@
   <img width = "420px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-abohasan&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mohammad-abohasan"/>
 </div>
 <div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Abohasan&show_icons=true&theme=dracula" alt="mohammad-abohasan"> 
+</div>
+<div align="center">
   <img width = "420px" height= "165.453px" src="https://github-readme-stats.vercel.app/api?username=mohammad-abohasan&show_icons=true&theme=dracula" alt="mohammad-abohasan"/>
   <img width = "420px" height= "165.453px"  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-abohasan&theme=dracula" alt="mohammad-abohasan"/>
 </div>
