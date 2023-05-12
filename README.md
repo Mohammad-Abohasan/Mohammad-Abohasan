@@ -101,14 +101,6 @@
 
 </br>
 
-
-<h2 align="left">Snake eating my contribution 🐍:</h2>
-<div align="center">
-  <img alt="snake eating my contribution" src="https://github.com/Mohammad-Abohasan/Mohammad-Abohasan/blob/output/github-contribution-grid-snake.gif">
-</div>
-
-</br>
-
 <h2 align="left">Statistics:</h2>
 <div align="center">
   <img width = "420px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-abohasan&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mohammad-abohasan"/>
