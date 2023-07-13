@@ -16,8 +16,6 @@
 
 - 🔭 I’m currently studying **Computer Systems Engineering** at **[Palestine Technical University - Kadoorie](https://ptuk.edu.ps)**.
 
-- 🌱 I’m currently learning **ReactJS**.
-
 - 📫 How to reach me **mo7ammad.saed@gmail.com**.
 
 - 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1f_3ANvXVZjjr9bbKp2F9rRx6O8g9EeRM/view?usp=share_link" target="_blank">Resume</a>**.
