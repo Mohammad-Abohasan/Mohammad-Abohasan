@@ -1,22 +1,10 @@
-[![committers.top badge](https://user-badge.committers.top/palestine_public/Mohammad-Abohasan.svg)](https://user-badge.committers.top/palestine_public/Mohammad-Abohasan)
-[![committers.top badge](https://user-badge.committers.top/palestine/Mohammad-Abohasan.svg)](https://user-badge.committers.top/palestine/Mohammad-Abohasan)
-
+![ProgileView](https://komarev.com/ghpvc/?username=mohammad-abohasan&label=Profile%20views&color=44CC11&style=flat)
+![committers.top badge](https://user-badge.committers.top/palestine_public/Mohammad-Abohasan.svg)
+![committers.top badge](https://user-badge.committers.top/palestine/Mohammad-Abohasan.svg)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammad Abohasan</h1>
-<h3 align="center">A passionate full-stack developer from Palestine 👨‍💻</h3>
 
 </br>
-
-<div align="center">
-    <img alt="full-stack-developer" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" width="65%" height="auto"/>
-</div>
-
-</br>
-
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=mohammad-abohasan&label=Profile%20views&color=0e75b6&style=flat"
-        alt="mohammad-abohasan" />
-</p>
 
 - 🔭 I’m currently studying **Computer Systems Engineering** at **[Palestine Technical University - Kadoorie](https://ptuk.edu.ps)**.
 
@@ -33,10 +21,6 @@
     <a href="https://linkedin.com/in/mohammad-abohasan" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
             alt=linkedin style="margin-bottom: 5px;" />
-    <a href="https://github.com/Mohammad-Abohasan" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
-            alt=github style="margin-bottom: 5px;" />
-    </a>
     <a href="https://stackoverflow.com/users/17667058/mohammad-abohasan" target="_blank">
         <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white
             alt=stackoverflow style="margin-bottom: 5px;" />
