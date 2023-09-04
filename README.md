@@ -6,7 +6,7 @@
 
 </br>
 
-- 🔭 I’m currently studying **Computer Systems Engineering** at **[Palestine Technical University - Kadoorie](https://ptuk.edu.ps)**.
+- 🔭 I’m a **senior computer systems engineer**.
 
 - 📫 How to reach me **mo7ammad.saed@gmail.com**.
 
