@@ -6,7 +6,7 @@
 
 </br>
 
-- 🔭 I’m a **senior computer systems engineer**.
+- 🔭 I’m currently learning QA [Manual and Automation (Cypress)]
 
 - 📫 How to reach me **mo7ammad.saed@gmail.com**.
 
