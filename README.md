@@ -1,100 +1,52 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Mohammad%20Abohasan!%20%F0%9F%91%8B&fontSize=45)
+
 ![ProgileView](https://komarev.com/ghpvc/?username=mohammad-abohasan&label=Profile%20views&color=44CC11&style=flat)
 ![committers.top badge](https://user-badge.committers.top/palestine_public/Mohammad-Abohasan.svg)
 ![committers.top badge](https://user-badge.committers.top/palestine/Mohammad-Abohasan.svg)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammad Abohasan</h1>
+🔭 I’m currently learning [**Cypress**](https://www.cypress.io), a Quality Assurance automation tool. <br />
+🗂️ All of my projects are available at [**My repositories**](https://github.com/Mohammad-Abohasan?tab=repositories). <br />
+📄 Know about my experiences **<a href="https://drive.google.com/file/d/1AnGeB2OC8OYliAoXoiBlXdRP5834KLsD" target="_blank">Resume</a>**. <br />
+⚡ Fun fact: I complete my task **accurately** and **quickly**.
 
-</br>
+<img src="https://github.com/Mohammad-Abohasan/Mohammad-Abohasan/blob/master/Line-Abohasan.gif" width="1100px" height="10px">
 
-- 🔭 I’m currently learning **QA** [**Manual** and **Automation** (**Cypress**)]
+<h2>Connect with me 📨</h2>
 
-- 📫 How to reach me **mo7ammad.saed@gmail.com**.
+📫 [**E-mail**](mailto:mo7ammad.saed@gmail.com).
 
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1AnGeB2OC8OYliAoXoiBlXdRP5834KLsD" target="_blank">Resume</a>**.
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mohammad-abohasan)
+&ensp;[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/mo7ammad_saed)
+&ensp;[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mohammad._.abohasan)
 
-- ⚡ Fun fact: I complete my task **accurately** and **quickly**.
+<img src="https://github.com/Mohammad-Abohasan/Mohammad-Abohasan/blob/master/Line-Abohasan.gif" width="1100px" height="10px">
 
-</br>
+<h2>Skills 🧠💡</h2>
 
-<h2 align="left">Connect with me:</h2>
-<div align="left">
-    <a href="https://linkedin.com/in/mohammad-abohasan" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
-            alt=linkedin style="margin-bottom: 5px;" />
-    <a href="https://stackoverflow.com/users/17667058/mohammad-abohasan" target="_blank">
-        <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white
-            alt=stackoverflow style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://twitter.com/mo7ammad_saed" target="_blank">
-        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white
-            alt=twitter style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.facebook.com/mo7ammad.XD" target="_blank">
-        <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white
-            alt=facebook style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://instagram.com/mohammad._.abohasan" target="_blank">
-        <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white
-            alt=instagram style="margin-bottom: 5px;" />
-    </a>
-    </a>
-</div>
+![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,bootstrap,jquery,js,ts,jenkins,gherkin,postgres,dotnet,php,nodejs,expressjs,react,mongodb,sequelize,r,git,github,githubactions,bash,md,postman,vscode,visualstudio,idea,discord,arduino,autocad&perline=11)
 
-</br>
+<img src="https://github.com/Mohammad-Abohasan/Mohammad-Abohasan/blob/master/Line-Abohasan.gif" width="1100px" height="10px">
 
-<h2 align="left">Languages and tools:</h2>
-<div align="left">
-    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React"
-            height="40" /></a>
-    <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js"
-            height="40" /></a>
-    <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"
-            height="40" /></a>
-    <a href="https://www.php.net/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" /></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="mongodb"
-            height="40" /></a>
-    <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="40" /></a>
-    <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"
-            height="40" /></a> 
-    <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"
-            height="40" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"
-            height="40" /></a>
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"
-            height="40" /></a>
-    <a href="https://www.java.com/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java"
-            height="40" /></a>
-    <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>
-    <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /></a>
-    <a target="_blank"><img style="margin: 10px"
-            src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="node package manager" height="40" /></a>
-    <a href="https://github.com/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
-</div>
+<h2>Statistics 📊</h2>
+<details>
+  <summary><h3>Github Statistics 📈</h3></summary>
+    <div align="center">
+      <img height=177.99 src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad-Abohasan&layout=compact&theme=radical&hide_border=true" />
+        &ensp;
+      <img width=623 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Abohasan&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Abohasan&theme=radical&hide_border=true" />
+        &ensp;
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Abohasan&theme=radical&hide_border=true" />
+    </div>
+</details>
+<details>
+  <summary><h3>Competitive Programming Statistics 📉</h3></summary>
+    <div align="center">
+      <img height=350 src="https://codeforces-readme-stats.vercel.app/api/card?username=Mohammad_Abohasan&force_username=true&theme=nord&border_color=#FFF" />
+        &ensp;
+      <img height=350 src="https://leetcode.card.workers.dev/Mohammad-Abohasan?theme=nord&font=baloo&extension=activity&border_color=#FFF" />
+    </div>
+</details> 
 
-</br>
 
-<h2 align="left">Statistics:</h2>
-<div align="center">
-  <img width = "420px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-abohasan&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mohammad-abohasan"/>
-</div>
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Abohasan&show_icons=true&theme=dracula" alt="mohammad-abohasan"> 
-</div>
-<div align="center">
-  <img width = "420px" height= "165.453px" src="https://github-readme-stats.vercel.app/api?username=mohammad-abohasan&show_icons=true&theme=dracula" alt="mohammad-abohasan"/>
-  <img width = "420px" height= "165.453px"  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-abohasan&theme=dracula" alt="mohammad-abohasan"/>
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer)
