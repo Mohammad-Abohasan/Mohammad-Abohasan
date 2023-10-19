@@ -5,11 +5,11 @@
 ![committers.top badge](https://user-badge.committers.top/palestine/Mohammad-Abohasan.svg)
 
 🔭 I’m currently learning [**Cypress**](https://www.cypress.io), a Quality Assurance automation tool. <br />
-🗂️ All of my projects are available at [**My repositories**](https://github.com/Mohammad-Abohasan?tab=repositories). <br />
+🗂️ All of my projects are available at [**My repositories**](../../../?tab=repositories). <br />
 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1AnGeB2OC8OYliAoXoiBlXdRP5834KLsD" target="_blank">Resume</a>**. <br />
 ⚡ Fun fact: **404 Fun fact not found!** 🕵️‍♂️🔍.
 
-<img src="https://github.com/Mohammad-Abohasan/Mohammad-Abohasan/blob/master/Line-Abohasan.gif" width="1100px" height="10px">
+<img src="Line-Abohasan.gif" width="1100px" height="10px">
 
 <h2>Connect with me 📨</h2>
 
@@ -19,13 +19,13 @@
 &ensp;[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/mo7ammad_saed)
 &ensp;[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mohammad._.abohasan)
 
-<img src="https://github.com/Mohammad-Abohasan/Mohammad-Abohasan/blob/master/Line-Abohasan.gif" width="1100px" height="10px">
+<img src="Line-Abohasan.gif" width="1100px" height="10px">
 
 <h2>Skills 🧠💡</h2>
 
 ![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,bootstrap,jquery,js,ts,jenkins,gherkin,postgres,dotnet,php,nodejs,expressjs,react,mongodb,sequelize,r,git,github,githubactions,bash,md,postman,vscode,visualstudio,idea,discord,arduino,autocad&perline=11)
 
-<img src="https://github.com/Mohammad-Abohasan/Mohammad-Abohasan/blob/master/Line-Abohasan.gif" width="1100px" height="10px">
+<img src="Line-Abohasan.gif" width="1100px" height="10px">
 
 <h2>Statistics 📊</h2>
 <details>
