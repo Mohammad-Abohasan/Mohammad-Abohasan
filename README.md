@@ -16,7 +16,6 @@
 📫 [**E-mail**](mailto:mo7ammad.saed@gmail.com).
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mohammad-abohasan)
-&ensp;[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/mo7ammad_saed)
 &ensp;[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mohammad._.abohasan)
 
 <img src="Line-Abohasan.gif" width="1100px" height="10px">
